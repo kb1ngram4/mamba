@@ -1,3 +1,5 @@
 export default {
-  navigationBarTitleText: '首页'
+  navigationBarTitleText: 'Mamba',
+  navigationStyle:"custom"
+  
 }

@@ -1,6 +1,7 @@
 import Vue from 'vue'
 import './app.scss'
-
+import Taro from "@tarojs/taro"
+Vue.prototype.taro = Taro
 const App = {
   onShow (options) {
   },
